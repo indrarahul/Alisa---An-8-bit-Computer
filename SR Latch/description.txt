@@ -1,1 +1,1 @@
-*SR Latch*
+**SR Latch**
