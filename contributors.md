@@ -2,4 +2,4 @@
 
 Thanks for your contributions :heart: :octocat:
 
-| * [Rupkatha](https://github.com/Rupkatha) 
+* [Rupkatha](https://github.com/Rupkatha) 
