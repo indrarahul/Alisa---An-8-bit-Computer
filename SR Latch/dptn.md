@@ -67,5 +67,5 @@ By definition condition of Q=1 and not-Q=0 is **set** and Q=0 and not-Q=1 is **r
 
 ## Contributors :octocat:
 
-To see a list of all contributors see [here](https://github.com/indrarahul2013/Alisa---An-8-bit-Computer/README.md)
+To see a list of all contributors see [here](https://github.com/indrarahul2013/Alisa---An-8-bit-Computer/blob/master/contributors.md)
 
